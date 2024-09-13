@@ -1,5 +1,5 @@
 export GH_USERNAME='DYagmur'
-export GH_TOKEN='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'
+export GH_TOKEN=''
 export GH_IMAGE_NAME='hello-world'
 export GH_VER='1.0.0'
 
